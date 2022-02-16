@@ -1,3 +1,3 @@
 INTEGRANTES 
-Jose Cristobal Arteaga Alas
+Jose Cristobal Arteaga Alas,
 Stanley Saul Serrano Oliva
